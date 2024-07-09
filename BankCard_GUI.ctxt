@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankCard_GUI
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BankCard_GUI\ here.\r\n\r\n\ @author\ (CS4001NI_programming_MOhammad\ ajamatullah_22068146\r\n(np01cp4a220497@islingtoncollage.edu.np))\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BankCard_GUI()
+comment1.text=\r\n\ this\ is\ frame1\ for\ debit\ card.\r\n
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=11
